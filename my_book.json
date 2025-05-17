@@ -1,0 +1,44 @@
+[
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Distopia",
+        "year": 1949,
+        "read_status": "Da leggere"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "genre": "Drama",
+        "year": 1877,
+        "read_status": "Da leggere"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "genre": "Psicologico",
+        "year": 1866,
+        "read_status": "Da leggere"
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garcia M\u00e0rquez",
+        "genre": "Realismo Magico",
+        "year": 1967,
+        "read_status": "Da leggere"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austin",
+        "genre": "Classico",
+        "year": 1813,
+        "read_status": "Da leggere"
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "genre": "Epica",
+        "year": -800,
+        "read_status": "Read"
+    }
+]
